@@ -1,6 +1,6 @@
 {
-  "name": "myvoiceapp",
-  "homepage": "https://VovaRotterdam.github.io/myvoiceapp",
+  "name": "speechreco",
+  "homepage": "https://VovaRotterdam.github.io/speechreco",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
